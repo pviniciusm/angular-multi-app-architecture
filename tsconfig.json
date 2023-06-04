@@ -17,6 +17,9 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "paths": {
+      "resumo": [
+        "dist/resumo"
+      ],
       "shared": [
         "dist/shared"
       ]
